@@ -1,0 +1,21 @@
+
+.card-container {
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  /* width: 860px; */
+}
+
+
+
+.leftContainer img{
+  height: 50px;
+  width: 50px;
+  margin: 20px 40px;
+}
+
+.leftContainer{
+  display: flex;
+  flex-direction: column;
+  background-color: lightblue;
+}
